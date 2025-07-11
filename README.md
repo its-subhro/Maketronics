@@ -173,21 +173,3 @@ This project is open source and available under the MIT License.
 If you found this useful, consider giving it a star! ⭐
 
 ---
-
-### **Explanation**:
-
-- **What This App Does**: Describes the purpose of the app and its key features.
-- **Tech Stack**: Lists the technologies and frameworks used in the project.
-- **Getting Started**: Provides the setup instructions to run the app locally, including dependencies installation and running the app.
-- **Live Demo**: A section to include the live version's URL once deployed on Render.
-- **How I Built This**: Brief explanation of the app’s development process and the thought behind it.
-- **Project Structure**: Displays the structure of the project files.
-- **Deployment**: Detailed instructions to deploy the app on **Render**.
-- **Configuration & Customization**: Describes the key parts of the code that can be modified.
-- **Important Notes**: Gives a heads-up about potential issues with the scraping and filtering.
-- **Troubleshooting**: Provides common solutions for potential issues during development and deployment.
-- **Contributing**: Instructions for contributing to the project.
-- **License**: License information for the project (MIT License).
-- **Acknowledgments**: Thanks and credits to contributors and resources used.
-
-This should be a clean and comprehensive **GitHub README.md** for your project. Let me know if you'd like any adjustments!

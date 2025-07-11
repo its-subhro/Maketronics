@@ -43,19 +43,20 @@ Before diving in, make sure you have these installed:
    git clone https://github.com/yourusername/popular-tools-for-developers.git
    cd popular-tools-for-developers
 
-	2.	Install dependencies
+2.	Install dependencies
 
-pip install -r requirements.txt
-
-
-	3.	Fire up the app
-
-python backend.py
+        pip install -r requirements.txt
 
 
-	4.	Open your browser and visit:
+3.	Fire up the app
+   
 
-http://127.0.0.1:10000
+        python backend.py
+
+
+4.	Open your browser and visit:
+
+        http://127.0.0.1:10000
 
 
 
